@@ -1,4 +1,4 @@
-# Hi, Anushruti Malik Here
+# Hi, I'm Anushruti 👋
 
 **CSE Undergrad @ BVCOE** | B.Tech '27 | 9.1 CGPA
 
