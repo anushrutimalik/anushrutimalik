@@ -23,7 +23,6 @@ Focused on building high-performance web applications and researching Multi-Moda
 
 ### Leadership & Achievements
 - **Campus Leadership:** President of Aagaaz Music Society and Head of E-Cell at BVCOE.
-- **Open Source:** Selected among top 5% in GSSoC '25, successfully merging 12+ pull requests across multiple repositories.
 - **Awards & Honors:** 1st Prize @ Technovate (2026), 3rd Runner-Up @ Evotech (2026), 1st Runner-Up @ Anugoonj '25, and National Finalist @ Smart India Hackathon 2025.
 
 ### Let's Connect!
